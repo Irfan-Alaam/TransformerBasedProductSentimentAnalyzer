@@ -19,7 +19,7 @@ It also shows **confidence scores** and **class probabilities**.
 
 ## 📂 Project Structure
 |
-├── app.py # Streamlit app (UI)
+├── app.py # Streamlit app (UI)</br>
 ├── model_utils.py # Model
 ├── transformer_checkpoint.pkl # Trained model checkpoint
 ├── requirements.txt # Python dependencies
