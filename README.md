@@ -18,13 +18,13 @@ It also shows **confidence scores** and **class probabilities**.
 - ✅ Clean UI with real-time analysis
 
 ## 📂 Project Structure
-|
+|</br>
 ├── app.py # Streamlit app (UI)</br>
-├── model_utils.py # Model
-├── transformer_checkpoint.pkl # Trained model checkpoint
-├── requirements.txt # Python dependencies
-├── README.md # Documentation (this file)
-└── screenshots/ 
+├── model_utils.py # Model</br>
+├── transformer_checkpoint.pkl # Trained model checkpoint</br>
+├── requirements.txt # Python dependencies</br>
+├── README.md # Documentation (this file)</br>
+└── screenshots/</br>
 
 
 ---
