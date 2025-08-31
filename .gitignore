@@ -1,2 +1,23 @@
+# Virtual environments
+venv/
 .venv/
-.__pycache__/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data/raw files
+raw/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs/editors
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
